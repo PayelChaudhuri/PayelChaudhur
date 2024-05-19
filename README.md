@@ -9,7 +9,7 @@
 
 ```python
 Name = "Payel Chaudhuri"
-Interests = ["Coding", "Graphic Designing", "Entrepreneurship", "Public Speaking"]
+Interests = ["Coding", "Entrepreneurship", "Public Speaking"]
 Languages = ["C", "Python", "Kotlin"]
 ```
 <!-- <div align=center>
